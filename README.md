@@ -23,9 +23,9 @@
 
 # 🧨 | Permissions
 
-● togglefly.use 
-● buyfly.use
-● buyfly.admin
+- togglefly.use 
+- buyfly.use
+- buyfly.admin
 
 # 🔑 | Dependencies
 
