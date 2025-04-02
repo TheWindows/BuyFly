@@ -1,0 +1,20 @@
+name: BuyFlyPlugin
+version: 1.0.1
+main: TheWindows\BuyFlyPlugin
+api: 5.0.0
+description: Buy Fly Plugin Made By TheWindows ( Version 1.0.1 Final Release )
+author: TheWindows
+commands:
+  buyfly:
+    description: Buy Flight Time
+    permission: buyfly.use
+  togglefly:
+    description: Toggle Flight Mode
+    permission: togglefly.use
+permissions:
+  togglefly.use:
+    default: op
+  buyfly.use:
+    default: op
+  buyfly.admin:
+    default: op
